@@ -1,0 +1,16 @@
+# Build output
+target/
+.surefire-*
+
+# IntelliJ stuff
+.attach_pid*
+*.iml
+*.ipr
+*.iws
+.idea
+
+# VIM crap
+*.swp
+
+# Mac
+.DS_Store
